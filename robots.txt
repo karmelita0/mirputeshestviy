@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+Disallow: /mirputeshestviy/about/team/
+Disallow: /mirputeshestviy/about/partners/
+Disallow: /mirputeshestviy/faq/documents/
+Disallow: /mirputeshestviy/faq/refund/
+Disallow: /mirputeshestviy/admin/
+Disallow: /mirputeshestviy/search/
+Disallow: /*?sessionid=
+
+Allow: /mirputeshestviy/
+Allow: /mirputeshestviy/tours/
+Allow: /mirputeshestviy/tours/destinations/
+Allow: /mirputeshestviy/tours/hot/
+Allow: /mirputeshestviy/blog/
+Allow: /mirputeshestviy/blog/news/
+Allow: /mirputeshestviy/about/reviews/
+Allow: /mirputeshestviy/contacts/
+
+Sitemap: https://karmelita0.github.io/mirputeshestviy/sitemap.xml
